@@ -108,7 +108,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_COLOR</zType>
-		<French><![CDATA[<lt>colou={1_hexcode}<gt>{0_value}</colou>]]></French>
+		<French><![CDATA[<lt>color={1_hexcode}<gt>{0_value}</color>]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_ERA_YEAR</zType>
