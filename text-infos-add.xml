@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+	<!-- InfoEventOption -->
+	<Entry>
+		<zType/>
+		<French/>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_GTEST_COOL</zType>
+		<French>{CITY-0} est le nom cool de la ville.</French>
+	</Entry>
+	<!-- InfoLanguage -->
+	<Entry>
+		<zType>TEXT_LANGUAGE_FRENCH</zType>
+		<French>Français (France)</French>
+	</Entry>
+	<!-- InfoTerrain -->
+	<Entry>
+		<zType>TEXT_TERRAIN_WATER</zType>
+		<French>Eau</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TERRAIN_URBAN</zType>
+		<French>Urbain</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TERRAIN_LUSH</zType>
+		<French>Luxuriant</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TERRAIN_TEMPERATE</zType>
+		<French>Tempéré</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TERRAIN_ARID</zType>
+		<French>Aride</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TERRAIN_SAND</zType>
+		<French>Sable</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TERRAIN_TUNDRA</zType>
+		<French>Toundra</French>
+	</Entry>
+	<!--InfoBuild-->
+	<Entry>
+		<zType>TEXT_BUILD_PROJECT</zType>
+		<French>Projet</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_BUILD_SPECIALIST</zType>
+		<French>Spécialiste</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_BUILD_UNIT</zType>
+		<French>Unité</French>
+	</Entry>
+	<!--InfoConcept-->
+	<Entry>
+		<zType>TEXT_CONCEPT_ALLIANCE_BARB</zType>
+		<French>Alliance Barbare</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_ALLIANCE_PLAYER</zType>
+		<French>Alliance Joueur</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_BARBARIAN_INVADE</zType>
+		<French>Invasion Barbare</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_BUY_TILE</zType>
+		<French>Acheter Tuiles</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_CULTURE_EVENT</zType>
+		<French>Evènement Culturel</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_CLEAR</zType>
+		<French>Dégagé</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_CONDUCT_TRADE_MISSION</zType>
+		<French>Etablir Mission Commerciale</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_CRITICAL_HIT</zType>
+		<French>Frappe Critique</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_ENVY</zType>
+		<French>Jalousie</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_GENERAL</zType>
+		<French>Général</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_GOVERNOR</zType>
+		<French>Gouverneur</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_HARVEST_RESOURCE</zType>
+		<French>Récolter Ressource</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_JOIN_COURT</zType>
+		<French>Rejoindre Cour</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_IDLE</zType>
+		<French>Inactif</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_IGNORES_ZOC</zType>
+		<French>Ignore ZDC</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_LUXURY</zType>
+		<French>Produit de Luxe</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_PROJECT_INFO</zType>
+		<French>Projet</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_RAISE_IMPROVEMENTS</zType>
+		<French>Eriger Aménagement</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_REBEL</zType>
+		<French>Rebelle</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_ROUT</zType>
+		<French>Mettre en Déroute</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_SETTLEMENT</zType>
+		<French>Peuplement</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_URBAN</zType>
+		<French><![CDATA[Urbain~un Urbain<comment this text is an adjective>]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_ZOC</zType>
+		<French>ZDC</French>
+	</Entry>
+	<!--InfoVegetation-->
+	<Entry>
+		<zType>TEXT_VEGETATION_TREES</zType>
+		<French>Arbres</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_VEGETATION_TREES_REMOVE</zType>
+		<French>Abattre les Arbres</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_VEGETATION_TREES_CUT</zType>
+		<French>Arbres (Abattus)</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_VEGETATION_TREES_CUT_REMOVE</zType>
+		<French>Dégager Terrain</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_VEGETATION_SCRUB</zType>
+		<French>Broussaille~de la Broussaile~Broussailles</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_VEGETATION_SCRUB_REMOVE</zType>
+		<French>Abattre la Broussaille</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_VEGETATION_SCRUB_CUT</zType>
+		<French>Broussaille (Abattue)~de la Broussaille (Abattue)~Broussailles (Abattues)</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_VEGETATION_SCRUB_CUT_REMOVE</zType>
+		<French>Dégager Terrain</French>
+	</Entry>
+	<!--InfoSpecialist-->
+	<Entry>
+		<zType>TEXT_SPECIALIST_FARMER</zType>
+		<French>Fermier~un Fermier~Fermiers</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_WOODCUTTER</zType>
+		<French>Bûcheron~un Bûcheron~Bûcherons</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_STONECUTTER</zType>
+		<French>Tailleur de Pierre~un Tailleur de Pierre~Tailleurs de Pierre</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_MINER</zType>
+		<French>Mineur~un Mineur~Mineurs</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_RANCHER</zType>
+		<French>Eleveur~un Eleveur~Eleveurs</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_TRAPPER</zType>
+		<French>Trappeur~un Trappeur~Trappeurs</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_GARDENER</zType>
+		<French>Jardinier~un Jardinier~Jardiniers</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_FISHER</zType>
+		<French>Pêcheur~un Pêcheur~Pêcheurs</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_ACOLYTE_1</zType>
+		<French>Apprenti Acolyte~un Apprenti Acolyte~Apprentis Acolytes</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_ACOLYTE_2</zType>
+		<French>Maître Acolyte~un Maître Acolyte~Maîtres Acolytes</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_ACOLYTE_3</zType>
+		<French>Ancien Acolyte~un Ancien Acolyte~Anciens Acolytes</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_DOCTOR_1</zType>
+		<French>Apprenti Docteur~un Apprenti Docteur~Apprentis Docteurs</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_DOCTOR_2</zType>
+		<French>Maître Docteur~un Maître Docteur~Maîtres Docteurs</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_DOCTOR_3</zType>
+		<French>Ancien Docteur~un Ancien Docteur~Anciens Docteurs</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_MONK_1</zType>
+		<French>Apprenti Moine~un Apprenti Moine~Apprentis Moines</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_MONK_2</zType>
+		<French>Maître Moine~un Maître Moine~Maîtres Moines</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_MONK_3</zType>
+		<French>Ancien Moine~un Ancien Moine~Moines Anciens</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_PRIEST_1</zType>
+		<French>Apprenti Prêtre~un Apprenti Prêtre~Apprentis Prêtres</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_PRIEST_2</zType>
+		<French>Maître Prêtre~un Maître Prêtre~Maîtres Prêtres</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_PRIEST_3</zType>
+		<French>Ancien Prêtre~un Ancien Prêtre~Anciens Prêtres</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_BISHOP_1</zType>
+		<French>Apprenti Evêque~un Apprenti Evêque~Apprentis Evêques</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_BISHOP_2</zType>
+		<French>Maître Evêque~un Maître Evêque~Maîtres Evêques</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_BISHOP_3</zType>
+		<French>Ancien Evêque~un Ancien Evêque~Anciens Evêques</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_POET_1</zType>
+		<French>Apprenti Poète~un Apprenti Poète~Apprentis Poètes</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_POET_2</zType>
+		<French>Maître Poète~un Maître Poète~Maîtres Poètes</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_POET_3</zType>
+		<French>Ancien Poète~un Ancien Poète~Anciens Poètes</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_SHOPKEEPER_1</zType>
+		<French>Apprenti Commerçant~un Apprenti Commerçant~Apprentis Commerçants</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_SHOPKEEPER_2</zType>
+		<French>Maître Commerçant~un Maître Commerçant~Maîtres Commerçants</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_SHOPKEEPER_3</zType>
+		<French>Ancien Commerçant~un Ancien Commerçant~Anciens Commerçants</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_PHILOSOPHER_1</zType>
+		<French>Apprenti Philosophe~un Apprenti Philosophe~Apprentis Philosophes</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_PHILOSOPHER_2</zType>
+		<French>Maître Philosophe~un Maître Philosophe~Maîtres Philosophes</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_PHILOSOPHER_3</zType>
+		<French>Ancien Philosophe~un Ancien Philosophe~Ancien Philosophes</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_SCRIBE_1</zType>
+		<French>Apprenti Scribe~un Apprenti Scribe~Apprentis Scribes</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_SCRIBE_2</zType>
+		<French>Maître Scribe~un Maître Scribe~Maîtres Scribes</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_SCRIBE_3</zType>
+		<French>Ancien Scribe~un Ancien Scribe~Anciens Scribes</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_OFFICER_1</zType>
+		<French>Apprenti Officier~un Apprenti Officier~Apprenti Officiers</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_OFFICER_2</zType>
+		<French>Maître Officier~un Maître Officier~Maîtres Officiers</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_OFFICER_3</zType>
+		<French>Ancien Officier~un Ancien Officier~Anciens Officiers</French>
+	</Entry>
+	<!--InfoOpinionBarbarian-->
+	<!--Assets/GameAssets/Resources/Infos/opinionBarbarian.xml-->
+	<Entry>
+		<zType>TEXT_OPINIONBARBARIAN_FURIOUS</zType>
+		<French>Furieux</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_OPINIONBARBARIAN_ANGRY</zType>
+		<French>En Colère</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_OPINIONBARBARIAN_UPSET</zType>
+		<French>Contrarié</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_OPINIONBARBARIAN_CAUTIOUS</zType>
+		<French>Prudents</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_OPINIONBARBARIAN_PLEASED</zType>
+		<French>Satisfaits</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_OPINIONBARBARIAN_FRIENDLY</zType>
+		<French>Amicaux</French>
+	</Entry>
+	<!--InfoOpinionCharacter-->
+	<!--Assets/GameAssets/Resources/Infos/opinionCharacter.xml-->
+	<Entry>
+		<zType>TEXT_OPINIONCHARACTER_FURIOUS</zType>
+		<French>Furieux</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_OPINIONCHARACTER_ANGRY</zType>
+		<French>En colère</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_OPINIONCHARACTER_UPSET</zType>
+		<French>Contrarié</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_OPINIONCHARACTER_CAUTIOUS</zType>
+		<French>Prudent</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_OPINIONCHARACTER_PLEASED</zType>
+		<French>Satisfait</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_OPINIONCHARACTER_FRIENDLY</zType>
+		<French>Amical</French>
+	</Entry>
+	<!--InfoOpinionPlayer-->
+	<!--Assets/GameAssets/Resources/Infos/opinionPlayer.xml-->
+	<Entry>
+		<zType>TEXT_OPINIONPLAYER_FURIOUS</zType>
+		<French>Furieux</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_OPINIONPLAYER_ANGRY</zType>
+		<French>En Colère</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_OPINIONPLAYER_UPSET</zType>
+		<French>Contrarié</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_OPINIONPLAYER_CAUTIOUS</zType>
+		<French>Prudent</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_OPINIONPLAYER_PLEASED</zType>
+		<French>Satisfait</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_OPINIONPLAYER_FRIENDLY</zType>
+		<French>Amical</French>
+	</Entry>
+</Root>
