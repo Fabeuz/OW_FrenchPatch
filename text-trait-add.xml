@@ -4,514 +4,522 @@
 	<!--Assets/GameAssets/Resources/Infos/trait.xml-->
 	<Entry>
 		<zType/>
-		<French/>
+		<English/>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_HERO_ARCHETYPE</zType>
-		<French>Hero</French>
+		<English>Hero</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_COMMANDER_ARCHETYPE</zType>
-		<French>Commandant</French>
+		<English>Commander</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_TACTICIAN_ARCHETYPE</zType>
-		<French>Tacticien</French>
+		<English>Tactician</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ZEALOT_ARCHETYPE</zType>
-		<French>Fanatique</French>
+		<English>Zealot</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SCHEMER_ARCHETYPE</zType>
-		<French>Conspirateur</French>
+		<English>Schemer</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ORATOR_ARCHETYPE</zType>
-		<French>Orateur</French>
+		<English>Orator</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_JUDGE_ARCHETYPE</zType>
-		<French>Juge</French>
+		<English>Judge</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BUILDER_ARCHETYPE</zType>
-		<French>Constructeur</French>
+		<English>Builder</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SCHOLAR_ARCHETYPE</zType>
-		<French>Savant</French>
+		<English>Scholar</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_DIPLOMAT_ARCHETYPE</zType>
-		<French>Diplomate</French>
+		<English>Diplomat</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ROBUST</zType>
-		<French>Robuste</French>
+		<English>Robust</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_VIGILANT</zType>
-		<French>Vigilant</French>
+		<English>Vigilant</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_STRICT</zType>
-		<French>Strict</French>
+		<English>Strict</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_DRILLMASTER</zType>
-		<French>Instructeur </French>
+		<English>Drillmaster</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_KEEN</zType>
-		<French>Enthousiaste</French>
+		<English>Keen</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_EQUESTRIAN</zType>
-		<French>Cavalier</French>
+		<English>Equestrian</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_AFFABLE</zType>
-		<French>Affable</French>
+		<English>Affable</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ELOQUENT</zType>
-		<French>Eloquent</French>
+		<English>Eloquent</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_WARLIKE</zType>
-		<French>Belliqueux</French>
+		<English>Warlike</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_INSPIRED</zType>
-		<French>Inspiré</French>
+		<English>Inspired</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_INTELLIGENT</zType>
-		<French>Intelligent</French>
+		<English>Intelligent</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_PROSPEROUS</zType>
-		<French>Prospère</French>
+		<English>Prosperous</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_FRUGAL</zType>
-		<French>Frugal</French>
+		<English>Frugal</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_RIGHTEOUS</zType>
-		<French>Vertueux</French>
+		<English>Righteous</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CRUEL</zType>
-		<French>Cruel</French>
+		<English>Cruel</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CARELESS</zType>
-		<French>Négligent</French>
+		<English>Careless</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SLOTHFUL</zType>
-		<French>Paresseux</French>
+		<English>Slothful</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CORRUPT</zType>
-		<French>Corrompu</French>
+		<English>Corrupt</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_UNCOUTH</zType>
-		<French>Grossier</French>
+		<English>Uncouth</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_FOOLISH</zType>
-		<French>Insensé</French>
+		<English>Foolish</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_EXTRAVAGANT</zType>
-		<French>Extravagant</French>
+		<English>Extravagant</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_DEBAUCHED</zType>
-		<French>Débauché</French>
+		<English>Debauched</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ANGLER</zType>
-		<French>Pêcheur</French>
+		<English>Angler</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_PLANTER</zType>
-		<French>Planteur</French>
+		<English>Planter</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_FORESTER</zType>
-		<French>Forestière</French>
+		<English>Forester</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_DELVER</zType>
-		<French>Fouilleur</French>
+		<English>Delver</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SMELTER</zType>
-		<French>Fondeur</French>
+		<English>Smelter</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_HERDER</zType>
-		<French>Berger</French>
+		<English>Herder</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_TRACKER</zType>
-		<French>Traqueur</French>
+		<English>Tracker</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SWIFT</zType>
-		<French>Agile</French>
+		<English>Swift</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_HARDY</zType>
-		<French>Vigoureux</French>
+		<English>Hardy</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_EAGLE_EYE</zType>
-		<French>Œil de lynx</French>
+		<English>Eagle Eye</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_MARKSMAN</zType>
-		<French>Tireur d'élite</French>
+		<English>Marksman</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ENGINEER</zType>
-		<French>Ingénieur</French>
+		<English>Engineer</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BESIEGER</zType>
-		<French>Assiégeants</French>
+		<English>Besieger</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_GARRISON</zType>
-		<French>Garnisons</French>
+		<English>Garrison</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BLOODTHIRSTY</zType>
-		<French>Sanguinaire</French>
+		<English>Bloodthirsty</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_STEADFAST</zType>
-		<French>Ferme</French>
+		<English>Steadfast</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_HERBALIST</zType>
-		<French>Herboriste</French>
+		<English>Herbalist</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_HIGHLANDER</zType>
-		<French>Montagnard</French>
+		<English>Highlander</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_RANGER</zType>
-		<French>Garde forestier</French>
+		<English>Ranger</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_EXPLORING</zType>
-		<French>Explorateur</French>
+		<English>Exploring</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BRAVE</zType>
-		<French>Brave</French>
+		<English>Brave</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SHIELDBEARER</zType>
-		<French>Bouclier</French>
+		<English>Shieldbearer</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_FIERCE</zType>
-		<French>Féroce</French>
+		<English>Fierce</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_HORSEBANE</zType>
-		<French>Fléau</French>
+		<English>Horsebane</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_AGGRESSOR</zType>
-		<French>Agresseur</French>
+		<English>Aggressor</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BOLD</zType>
-		<French>Audacieux</French>
+		<English>Bold</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_COWARDLY</zType>
-		<French>Lâche</French>
+		<English>Cowardly</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_GRACIOUS</zType>
-		<French>Gracieux</French>
+		<English>Gracious</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_GREEDY</zType>
-		<French>Avide</French>
+		<English>Greedy</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CUNNING</zType>
-		<French>Ruse</French>
+		<English>Cunning</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ROMANTIC</zType>
-		<French>Romantique</French>
+		<English>Romantic</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_EDUCATED</zType>
+		<English>Educated</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_COMPASSIONATE</zType>
-		<French>Compatissant</French>
+		<English>Compassionate</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_INSPIRING</zType>
-		<French>Inspirant</French>
+		<English>Inspiring</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_LOYAL</zType>
-		<French>Fidèle</French>
+		<English>Loyal</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BITTER</zType>
-		<French>Acerbe</French>
+		<English>Bitter</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SPOILED</zType>
-		<French>Gâté</French>
+		<English>Spoiled</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_HONEST</zType>
-		<French>Honnête</French>
+		<English>Honest</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_PIOUS</zType>
-		<French>Pieux</French>
+		<English>Pious</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_HUMBLE</zType>
-		<French>Humble</French>
+		<English>Humble</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_HEARTBROKEN</zType>
-		<French>Navré</French>
+		<English>Heartbroken</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_INTOLERANT</zType>
-		<French>Intolerant</French>
+		<English>Intolerant</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_VENGEFUL</zType>
-		<French>Vengeur</French>
+		<English>Vengeful</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SUPERSTITIOUS</zType>
-		<French>Superstitieux</French>
+		<English>Superstitious</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_RUTHLESS</zType>
-		<French>Impitoyable</French>
+		<English>Ruthless</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_PROUD</zType>
-		<French>Fier</French>
+		<English>Proud</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BEAUTIFUL</zType>
-		<French>Beau</French>
+		<English>Beautiful</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_STUDY_TACTICS</zType>
-		<French>Étudiant en tactique</French>
+		<English>Tactics Student</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_STUDY_RHETORIC</zType>
-		<French>Étudiant en rhétorique</French>
+		<English>Rhetoric Student</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_STUDY_COMMERCE</zType>
-		<French>Étudiant en commerce</French>
+		<English>Commerce Student</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_STUDY_PHILOSOPHY</zType>
-		<French>Étudiant en philosophie</French>
+		<English>Philosophy Student</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BLESSED</zType>
-		<French>Béni</French>
+		<English>Blessed</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CURSED</zType>
-		<French>Maudit</French>
+		<English>Cursed</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ILL</zType>
-		<French>Malade</French>
+		<English>Ill</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SEVERELY_ILL</zType>
-		<French>Gravement malade</French>
+		<English>Severely Ill</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_INCUBATED</zType>
-		<French>Incubé</French>
+		<English>Incubated</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_POISONER</zType>
-		<French>Maître des poisons</French>
+		<English>Master of Poisons</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_POISONED</zType>
-		<French>Empoisonné</French>
+		<English>Poisoned</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_MISERABLE</zType>
-		<French>Misérable</French>
+		<English>Miserable</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SCARRED</zType>
-		<French>Marqué</French>
+		<English>Scarred</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CRIPPLED</zType>
-		<French>Estropié</French>
+		<English>Crippled</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BLINDED</zType>
-		<French>Aveugle</French>
+		<English>Blinded</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_FLED_COUNTRY</zType>
-		<French>Pays fui</French>
+		<English>Fled Country</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_IMPRISONED</zType>
-		<French>Détenu</French>
+		<English>Imprisoned</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_RELEASED</zType>
-		<French>Libéré</French>
+		<English>Released</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ON_THE_RUN</zType>
-		<French>Fugitif</French>
+		<English>Fugitive</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_HIDING_ABROAD</zType>
-		<French>Se cacher à l'étranger</French>
+		<English>Hiding Abroad</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ELOPED</zType>
-		<French>Prendre la fuite</French>
+		<English>Eloped</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CAPTURED</zType>
-		<French>Capturé</French>
+		<English>Captured</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_EXILED</zType>
-		<French>Exilé</French>
+		<English>Exiled</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_GAY</zType>
-		<French>Gay</French>
+		<English>Gay</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BASTARD</zType>
-		<French>Bâtard</French>
+		<English>Bastard</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SLIGHTED</zType>
-		<French>Offenser</French>
+		<English>Slighted</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_INFAMOUS</zType>
-		<French>Infâme</French>
+		<English>Infamous</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_FAMOUS</zType>
-		<French>Célèbre</French>
+		<English>Famous</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_POPULAR_HERO</zType>
-		<French>Héros populaire</French>
+		<English>Popular Hero</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ADOPTED</zType>
-		<French>Adopté</French>
+		<English>Adopted</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BYPASSED_HEIR</zType>
-		<French>Héritier contourné</French>
+		<English>Bypassed Heir</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ABDICATED</zType>
-		<French>Abdiquer</French>
+		<English>Abdicated</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_EXOTIC</zType>
-		<French>Exotique</French>
+		<English>Exotic</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_EXCLUDED</zType>
-		<French>Exclu de la succession</French>
+		<English>Excluded from Succession</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_DIVINE</zType>
-		<French>Divin</French>
+		<English>Divine</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SOLDIER</zType>
-		<French>Soldat</French>
+		<English>Soldier</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_DRUNK</zType>
-		<French>Ivre</French>
+		<English>Drunk</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_INSANE</zType>
+		<English>Insane</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_MOURNING</zType>
-		<French>Deuil</French>
+		<English>Mourning</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_DEALMAKER</zType>
-		<French>Négociateur</French>
+		<English>Dealmaker</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ARCHON</zType>
-		<French>Archon</French>
+		<English>Archon</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_MYSTERIOUS_SWORD</zType>
-		<French>Propriétaire d'épée mystérieuse</French>
+		<English>Mysterious Sword Owner</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SWORD_OF_THE_GODS</zType>
-		<French>Propriétaire de l'épée des dieux</French>
+		<English>Sword of the Gods Owner</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_PET_FISH</zType>
-		<French>Propriétaire de poisson d'aquarium</French>
+		<English>Pet Fish Owner</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_PET_MONKEY</zType>
-		<French>Propriétaire de singe de compagnie</French>
+		<English>Pet Monkey Owner</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_MONKEY_ASSASSIN</zType>
-		<French>Singe Assassin</French>
+		<English>Monkey Assassin</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_OVERSEER_OF_THE_FIELDS</zType>
-		<French>Surveillant des champs</French>
+		<English>Overseer of the Fields</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_POSSESSOR_OF_VENERATION</zType>
-		<French>Possesseur de vénération</French>
+		<English>Possessor of Veneration</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_STEWARD_OF_THE_CHAMBER</zType>
-		<French>Intendant de la Chambre</French>
+		<English>Steward of the Chamber</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ENEMY_OF_THE_STATE</zType>
-		<French>Ennemi d'État</French>
+		<English>Enemy of the State</English>
 	</Entry>
 </Root>
