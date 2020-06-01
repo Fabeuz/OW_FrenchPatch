@@ -4,218 +4,218 @@
 	<!--Name-->
 	<Entry>
 		<zType/>
-		<French/>
+		<English/>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_AMBASSADOR</zType>
-		<French>Faire Ambassadeur</French>
+		<English>Make Ambassador</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_CHANCELLOR</zType>
-		<French>Faire Chancelier</French>
+		<English>Make Chancellor</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_SPYMASTER</zType>
-		<French>Faire Maître-Espion</French>
+		<English>Make Spymaster</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_ALLIANCE</zType>
-		<French>Alliance avec</French>
+		<English>Player Alliance with</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_ALLIANCE_PLUS</zType>
-		<French>Alliance via</French>
+		<English>Player Alliance via</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_PEACE</zType>
-		<French>Paix avec</French>
+		<English>Player Peace with</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_PEACE_PLUS</zType>
-		<French>Paix via</French>
+		<English>Player Peace via</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_TRUCE</zType>
-		<French>Trêve avec</French>
+		<English>Player Truce with</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_TRUCE_PLUS</zType>
-		<French>Trêve via</French>
+		<English>Player Truce via</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_DECLARE_WAR</zType>
-		<French>Déclarer la guerre</French>
+		<English>Declare War</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_DECLARE_WAR_PLUS</zType>
-		<French>Déclarez la guerre à</French>
+		<English>Declare War on</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_BREAK_PEACE</zType>
-		<French>Rompre la Paix</French>
+		<English>Break Peace</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_BREAK_PEACE_PLUS</zType>
-		<French>Rompre la Paix avec</French>
+		<English>Break Peace with</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_END_ALLIANCE</zType>
-		<French>Fin de l'Alliance</French>
+		<English>End Alliance</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_END_ALLIANCE_PLUS</zType>
-		<French>Fin de l'Alliance avec</French>
+		<English>End Alliance with</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_CANCEL_TRADE</zType>
-		<French>Annuler tous les Echanges</French>
+		<English>Cancel All Trade</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_CANCEL_TRADE_PLUS</zType>
-		<French>Annuler tous les Echanges avec</French>
+		<English>Cancel All Trade with</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_BARBARIAN_ALLIANCE</zType>
-		<French>Alliance avec</French>
+		<English>Barbarian Alliance with</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_BARBARIAN_ALLIANCE_PLUS</zType>
-		<French>Alliance via</French>
+		<English>Barbarian Alliance via</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_BARBARIAN_PEACE</zType>
-		<French>Paix avec</French>
+		<English>Barbarian Peace with</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_BARBARIAN_PEACE_PLUS</zType>
-		<French>Paix via</French>
+		<English>Barbarian Peace via</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_BARBARIAN_TRUCE</zType>
-		<French>Trêve avec</French>
+		<English>Barbarian Truce with</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_BARBARIAN_TRUCE_PLUS</zType>
-		<French>Trêve via</French>
+		<English>Barbarian Truce via</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_BARBARIAN_DECLARE_WAR</zType>
-		<French>Déclarer la guerre</French>
+		<English>Declare War</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_BARBARIAN_DECLARE_WAR_PLUS</zType>
-		<French>Déclarez la guerre à</French>
+		<English>Declare War on</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_BARBARIAN_BREAK_PEACE</zType>
-		<French>Rompre la Paix</French>
+		<English>Break Peace</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_BARBARIAN_BREAK_PEACE_PLUS</zType>
-		<French>Rompre la Paix avec</French>
+		<English>Break Peace with</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_BARBARIAN_END_ALLIANCE</zType>
-		<French>Fin de l'Alliance</French>
+		<English>End Alliance</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_BARBARIAN_END_ALLIANCE_PLUS</zType>
-		<French>Fin de l'Alliance avec</French>
+		<English>End Alliance with</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_FAMILY_MARRIAGE</zType>
-		<French>Mariage de FamilleFrench>
+		<English>Family Marriage</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_MARRY_COURTIER</zType>
-		<French>Epouser un Courtisan</French>
+		<English>Marry Courtier</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_MARRY_COURTIER_PLUS</zType>
-		<French>Marier</French>
+		<English>Marry</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_ABDICATE</zType>
-		<French>Abdiquer le Trône</French>
+		<English>Abdicate Throne</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_ADOPT</zType>
-		<French>Adoptez un Enfant</French>
+		<English>Adopt Child</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_ADOPT_PLUS</zType>
-		<French>Adoptez par</French>
+		<English>Adopt by</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_LEGITIMIZE</zType>
-		<French>Légitimer</French>
+		<English>Legitimize</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_CHOSEN_HEIR</zType>
-		<French>Faire l'héritier choisi</French>
+		<English>Make Chosen Heir</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_INFILTRATE</zType>
-		<French>Infiltrer la Nation</French>
+		<English>Infiltrate Nation</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_INFILTRATE_PLUS</zType>
-		<French>Infiltrer la Nation via</French>
+		<English>Infiltrate Nation via</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_ASSASSINATE</zType>
-		<French>Assassiner</French>
+		<English>Assassinate</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_ASSASSINATE_PLUS</zType>
-		<French>Assassiner via</French>
+		<English>Assassinate via</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_TRADE_MISSION</zType>
-		<French>Mission commerciale avec</French>
+		<English>Trade Mission with</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_TRADE_MISSION_PLUS</zType>
-		<French>Mission commerciale via</French>
+		<English>Trade Mission via</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_FAMILY_GIFT</zType>
-		<French>Cadeaux de Famille</French>
+		<English>Family Gifts</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_FAMILY_GIFT_PLUS</zType>
-		<French>Cadeaux de Famille via</French>
+		<English>Family Gifts via</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_IMPRISON</zType>
-		<French>Emprisonner</French>
+		<English>Imprison</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_IMPRISON_PLUS</zType>
-		<French>Emprisonner via</French>
+		<English>Imprison via</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_RELEASE</zType>
-		<French>Libération de prison</French>
+		<English>Release from Prison</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_CAPTURE</zType>
-		<French>Capturer</French>
+		<English>Capture</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_DIVORCE</zType>
-		<French>Divorce avec Conjoint</French>
+		<English>Divorce Spouse</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_CAPTURED_RANSOM</zType>
-		<French>Payer une Rançon</French>
+		<English>Pay Ransom</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_BARBARIAN_WAR</zType>
-		<French>Demandez à déclarer la guerre</French>
+		<English>Ask to Declare War on</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSION_PLAYER_PLAYER_WAR</zType>
-		<French>Demandez à déclarer la guerre</French>
+		<English>Ask to Declare War on</English>
 	</Entry>
 </Root>
