@@ -4,146 +4,146 @@
 	<!-- Barbarian -->
 	<Entry>
 		<zType/>
-		<French/>
+		<English/>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BARBARIAN_PLURAL</zType>
-		<French>{0,0}</French>
+		<English>{0,0}</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BARBARIAN_SINGULAR</zType>
-		<French>{0,1}</French>
+		<English>{0,1}</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BARBARIAN_ADJECTIVE</zType>
-		<French>{0,2}</French>
+		<English>{0,2}</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_BARBARIAN_SITE</zType>
-		<French>Site {0,2_BarbarianAdjective}</French>
+		<English>{0,2_BarbarianAdjective} Site</English>
 	</Entry>
 	<!-- Nation -->
 	<Entry>
 		<zType>TEXT_NATION_NAME</zType>
-		<French>{0,0}</French>
+		<English>{0,0}</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NATION_SINGULAR</zType>
-		<French>{0,1}</French>
+		<English>{0,1}</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NATION_PLURAL</zType>
-		<French>{0,2}</French>
+		<English>{0,2}</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NATION_ADJECTIVE</zType>
-		<French>{0,3}</French>
+		<English>{0,3}</English>
 	</Entry>
 	<!-- Family -->
 	<Entry>
 		<zType>TEXT_FAMILY_SINGULAR</zType>
-		<French>{0,0}</French>
+		<English>{0,0}</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_PLURAL</zType>
-		<French>{0,1}</French>
+		<English>{0,1}</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_ADJECTIVE</zType>
-		<French>{0,2}</French>
+		<English>{0,2}</English>
 	</Entry>
 	<!-- Player -->
 	<Entry>
 		<zType>TEXT_PLAYER_NUMBER</zType>
-		<French>Joueur {0_number}</French>
+		<English>Player {0_number}</English>
 	</Entry>
 	<!-- HotKeys -->
 	<Entry>
 		<zType>TEXT_HOTKEY_PLUS_SPACE_TWO</zType>
-		<French>{0_key} + {1_key}</French>
+		<English>{0_key} + {1_key}</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HOTKEY_PLUS_TWO</zType>
-		<French>{0_key}+{1_key}</French>
+		<English>{0_key}+{1_key}</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HOTKEY_RIGHT_CLICK</zType>
-		<French>[RIGHT-CLICK]</French>
+		<English>[RIGHT-CLICK]</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HOTKEY_CTRL_CLICK</zType>
-		<French>[CTRL+CLICK]</French>
+		<English>[CTRL+CLICK]</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HOTKEY_SHIFT_CLICK</zType>
-		<French>[SHIFT+CLICK]</French>
+		<English>[SHIFT+CLICK]</English>
 	</Entry>
   <Entry>
     <zType>TEXT_HOTKEY_CTRL_SHIFT_CLICK</zType>
-    <French>[CTRL+SHIFT+CLICK]</French>
+    <English>[CTRL+SHIFT+CLICK]</English>
   </Entry>
   <Entry>
     <zType>TEXT_HOTKEY_CTRL_ALT_CLICK</zType>
-    <French>[CTRL+ALT+CLICK]</French>
+    <English>[CTRL+ALT+CLICK]</English>
   </Entry>
   <Entry>
 		<zType>TEXT_HOTKEY_SHIFT</zType>
-		<French>[SHIFT]</French>
+		<English>[SHIFT]</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HOTKEY_CTRL</zType>
-		<French>[CTRL]</French>
+		<English>[CTRL]</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HOTKEY_ALT</zType>
-		<French>[ALT]</French>
+		<English>[ALT]</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_RESOURCE_DENSITY</zType>
-		<French>Densité des ressources</French>
+		<English>Resource Density</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_MIRROR_MAP</zType>
-		<French>Carte Miroir</French>
+		<English>Mirror Map</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_SCENARIO_RESOURCES</zType>
-		<French>Ressources</French>
+		<English>Resources</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_WATER_SIZE</zType>
-		<French>Taille de l'eau</French>
+		<English>Water Size</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_WATER_LOCATION</zType>
-		<French>Emplacement de l'eau</French>
+		<English>Water Location</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_PLAYER_START_LOCATION</zType>
-		<French>Emplacement de départ du joueur</French>
+		<English>Player Start Location</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_TRIBES</zType>
-		<French>Tribus</French>
+		<English>Tribes</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_TERRAIN_TYPE_VARIATION</zType>
-		<French>Type de variation du terrain</French>
+		<English>Type of Terrain Variation</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_LOCATION_OF_TRIBAL_LANDS</zType>
-		<French>Emplacement des terres tribales</French>
+		<English>Location of Tribal Lands</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_TYPE_OF_EXTREME_TERRAIN</zType>
-		<French>Type de terrain extrême</French>
+		<English>Type of Extreme Terrain</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CENTER_BIAS</zType>
-		<French>Biais central</French>
+		<English>Center Bias</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_CONTINENTS</zType>
-		<French>Continents</French>
+		<English>Continents</English>
 	</Entry>
 </Root>
