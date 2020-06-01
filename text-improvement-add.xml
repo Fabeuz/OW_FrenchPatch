@@ -2,449 +2,449 @@
 <!-- edited with XMLSpy v2014 rel. 2 (x64) (http://www.altova.com) by Soren Johnson (private) -->
 <Root>
 	<!--Assets/GameAssets/Resources/Infos/improvement.xml-->
-	<!--NOTE: improvement names that are mass nouns or plural do not need multiple types in French-->
+	<!--NOTE: improvement names that are mass nouns or plural do not need multiple types in English-->
 	<Entry>
 		<zType/>
-		<French/>
+		<English/>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_ANCIENT_RUINS</zType>
-		<French>Ruine Ancienne~une Ruine Ancienne~Ruines Anciennes</French>
+		<English>Ancient Ruins~an Ancient Ruins~Ancient Ruins</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_CITY_SITE</zType>
-		<French>Site de la Ville~un Site de la Ville~Sites de la Ville</French>
+		<English>City Site~a City Site~City Sites</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_RUINS_1</zType>
-		<French>Ruines du Taudis</French>
+		<English>Hovel Ruins</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_RUINS_2</zType>
-		<French>Ruines d'avant-poste</French>
+		<English>Outpost Ruins</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_RUINS_3</zType>
-		<French>Ruines de campement</French>
+		<English>Encampment Ruins</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_RUINS_4</zType>
-		<French>Ruines de Forteresse</French>
+		<English>Fortress Ruins</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SETTLEMENT_1</zType>
-		<French>Taudis~un Taudis~Taudis</French>
+		<English>Hovel~a Hovel~Hovels</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SETTLEMENT_2</zType>
-		<French>Avant-poste~un Avant-poste~Avant-postes</French>
+		<English>Outpost~an Outpost~Outposts</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SETTLEMENT_3</zType>
-		<French>Campement~un Campement~Campements</French>
+		<English>Encampment~an Encampment~Encampments</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SETTLEMENT_4</zType>
-		<French>Forteresse~une Forteresse~Forteresses</French>
+		<English>Fortress~a Fortress~Fortresses</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_FORT</zType>
-		<French>Fort~un Fort~Forts</French>
+		<English>Fort~a Fort~Forts</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_FARM</zType>
-		<French>Ferme~une Ferme~Fermes</French>
+		<English>Farm~a Farm~Farms</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_MINE</zType>
-		<French>Mine~une Mine~Mines</French>
+		<English>Mine~a Mine~Mines</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_LUMBERMILL</zType>
-		<French>Scierie~une Scierie~Scieries</French>
+		<English>Lumbermill~a Lumbermill~Lumbermills</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_QUARRY</zType>
-		<French>Carrière~une Carrière~Carrières</French>
+		<English>Quarry~a Quarry~Quarries</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_PASTURE</zType>
-		<French>Pâturage~un Pâturage~Pâturages</French>
+		<English>Pasture~a Pasture~Pastures</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_CAMP</zType>
-		<French>Camp de Chasse~un Camp de Chasse~Camps de Chasse</French>
+		<English>Camp~a Camp~Camps</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_GROVE</zType>
-		<French>Plantation~une Plantation~Plantations</French>
+		<English>Grove~a Grove~Groves</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_NETS</zType>
-		<French>Filets</French>
+		<English>Nets</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_HARBOR</zType>
-		<French>Port~un Port~Ports</French>
+		<English>Harbor~a Harbor~Harbors</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_GRANARY</zType>
-		<French>Grenier~un Grenier~Greniers</French>
+		<English>Granary~a Granary~Granaries</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_WATERMILL</zType>
-		<French>Moulin à Eau~un Moulin à Eau~Moulins à Eau</French>
+		<English>Watermill~a Watermill~Watermills</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_WINDMILL</zType>
-		<French>Moulin à vent~un Moulin à vent~Moulins à vent</French>
+		<English>Windmill~a Windmill~Windmills</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_HAMLET</zType>
-		<French>Hameau~un Hameau~Hameaux</French>
+		<English>Hamlet~a Hamlet~Hamlets</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_VILLAGE</zType>
-		<French>Village~un Village~Villages</French>
+		<English>Village~a Village~Villages</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_TOWN</zType>
-		<French>Ville~une ville~Villes</French>
+		<English>Town~a Town~Towns</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_GARRISON_1</zType>
-		<French>Garnison~une Garnison~Garnisons</French>
+		<English>Garrison~a Garrison~Garrisons</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_GARRISON_2</zType>
-		<French>Bastion~un Bastion~Bastions</French>
+		<English>Stronghold~a Stronghold~Strongholds</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_GARRISON_3</zType>
-		<French>Citadelle~une Citadelle~Citadelles</French>
+		<English>Citadel~a Citadel~Citadels</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_AQUEDUCT</zType>
-		<French>Aqueduc~un Aqueduc~Aqueducs</French>
+		<English>Aqueduct~an Aqueduct~Aqueducts</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_BARRACKS</zType>
-		<French>Caserne~une Caserne~Casernes</French>
+		<English>Barracks~a Barracks~Barracks</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_RANGE</zType>
-		<French>Camp de tir~un Camp de tir~Camps de tir</French>
+		<English>Range~a Range~Ranges</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_THEATER_1</zType>
-		<French>Odeon~un Odeon~Odeons</French>
+		<English>Odeon~an Odeon~Odeons</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_THEATER_2</zType>
-		<French>Amphithéâtre~un Amphithéâtre~Amphithéâtres</French>
+		<English>Amphitheater~an Amphitheater~Amphitheaters</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_THEATER_3</zType>
-		<French>Colisée~un Colisée~Colisées</French>
+		<English>Colosseum~a Colosseum~Colosseums</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_BATHS_1</zType>
-		<French>Bains froids</French>
+		<English>Cold Baths</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_BATHS_2</zType>
-		<French>Bains chauds</French>
+		<English>Warm Baths</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_BATHS_3</zType>
-		<French>Bains chauffés</French>
+		<English>Heated Baths</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_MARKET_1</zType>
-		<French>Marché~un Marché~Marchés</French>
+		<English>Market~a Market~Markets</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_MARKET_2</zType>
-		<French>Épicier~un Épicier~Épiciers</French>
+		<English>Grocer~a Grocer~Grocers</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_MARKET_3</zType>
-		<French>Foire~une Foire~Foires</French>
+		<English>Fair~a Fair~Fairs</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_LIBRARY_1</zType>
-		<French>Bibliothèque~une Bibliothèque~Bibliothèques</French>
+		<English>Library~a Library~Libraries</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_LIBRARY_2</zType>
-		<French>Académie~une Académie~Académies</French>
+		<English>Academy~an Academy~Academies</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_LIBRARY_3</zType>
-		<French>Université~une Université~Universités</French>
+		<English>University~an University~Universities</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_COURTHOUSE_1</zType>
-		<French>Tribunal~un Tribunal~Tribunaux</French>
+		<English>Courthouse~a Courthouse~Courthouses</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_COURTHOUSE_2</zType>
-		<French>Ministère~a Ministère~Ministères</French>
+		<English>Ministry~a Ministry~Ministries</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_COURTHOUSE_3</zType>
-		<French>Palais~un Palais~Palais</French>
+		<English>Palace~a Palace~Palaces</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_NINURTA</zType>
-		<French>Sanctuaire de Ninurta</French>
+		<English>Shrine of Ninurta</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_MARS</zType>
-		<French>Sanctuaire de Mars</French>
+		<English>Shrine of Mars</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_NUSKA</zType>
-		<French>Sanctuaire de Nuska</French>
+		<English>Shrine of Nuska</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_ATAR</zType>
-		<French>Sanctuaire de Atar</French>
+		<English>Shrine of Atar</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_VULCAN</zType>
-		<French>Sanctuaire de Vulcan</French>
+		<English>Shrine of Vulcan</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_NABU</zType>
-		<French>Sanctuaire de Nabu</French>
+		<English>Shrine of Nabu</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_ATHENA</zType>
-		<French>Sanctuaire d'Athena</French>
+		<English>Shrine of Athena</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_SHAMAHS</zType>
-		<French>Sanctuaire de Shamahs</French>
+		<English>Shrine of Shamahs</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_RA</zType>
-		<French>Sanctuaire de Ra</French>
+		<English>Shrine of Ra</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_MITHRA</zType>
-		<French>Sanctuaire de Mithra</French>
+		<English>Shrine of Mithra</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_MELQART</zType>
-		<French>Sanctuaire de Melqart</French>
+		<English>Shrine of Melqart</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_POSEIDON</zType>
-		<French>Sanctuaire de Poseidon</French>
+		<English>Shrine of Poseidon</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_ANAHITA</zType>
-		<French>Sanctuaire d'Anahita</French>
+		<English>Shrine of Anahita</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_ISHTAR</zType>
-		<French>Sanctuaire d'Ishtar</French>
+		<English>Shrine of Ishtar</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_ASTARTE</zType>
-		<French>Sanctuaire d'Astarte</French>
+		<English>Shrine of Astarte</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_VENUS</zType>
-		<French>Sanctuaire de Venus</French>
+		<English>Shrine of Venus</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_ERESHKIGAL</zType>
-		<French>Sanctuaire d'Ereshkigal</French>
+		<English>Shrine of Ereshkigal</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_OSIRIS</zType>
-		<French>Sanctuaire d'Osiris</French>
+		<English>Shrine of Osiris</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_HADES</zType>
-		<French>Sanctuaire de Hades</French>
+		<English>Shrine of Hades</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_ESHMUN</zType>
-		<French>Sanctuaire d'Eshmun</French>
+		<English>Shrine of Eshmun</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_ISIS</zType>
-		<French>Sanctuaire de Isis</French>
+		<English>Shrine of Isis</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_ASHUR</zType>
-		<French>Sanctuaire d'Ashur</French>
+		<English>Shrine of Ashur</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_MARDUK</zType>
-		<French>Sanctuaire de Marduk</French>
+		<English>Shrine of Marduk</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_ZEUS</zType>
-		<French>Sanctuaire de Zeus</French>
+		<English>Shrine of Zeus</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_TANIT</zType>
-		<French>Sanctuaire de Tanit</French>
+		<English>Shrine of Tanit</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_TISHTRYA</zType>
-		<French>Sanctuaire de Tishtrya</French>
+		<English>Shrine of Tishtrya</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_NEITH</zType>
-		<French>Sanctuaire de Neith</French>
+		<English>Shrine of Neith</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_SHRINE_DIANA</zType>
-		<French>Sanctuaire de Diana</French>
+		<English>Shrine of Diana</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_MONASTERY_ZOROASTRIANISM</zType>
-		<French>Monastère Zoroastrien~un Monastère Zoroastrien~Monastères Zoroastriens</French>
+		<English>Zoroastrian Monastery~a Zoroastrian Monastery~Zoroastrian Monasteries</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_MONASTERY_JUDAISM</zType>
-		<French>Monastère Juif~un Monastère Juif~Monastères Juifs</French>
+		<English>Jewish Monastery~a Jewish Monastery~Jewish Monasteries</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_MONASTERY_CHRISTIANITY</zType>
-		<French>Monastère Chrétien~un Monastère Chrétien~Monastères Chrétiens</French>
+		<English>Christian Monastery~a Christian Monastery~Christian Monasteries</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_MONASTERY_MANICHAEISM</zType>
-		<French>Monastère Manichéen~un Monastère Manichéen~Monastères Manichéens</French>
+		<English>Manichaean Monastery~a Manichaean Monastery~Manichaean Monasteries</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_TEMPLE_ZOROASTRIANISM</zType>
-		<French>Temple Zoroastrien~un Temple Zoroastrien~Temples Zoroastrien</French>
+		<English>Zoroastrian Temple~a Zoroastrian Temple~Zoroastrian Temples</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_TEMPLE_JUDAISM</zType>
-		<French>Temple Juif~un Temple Juif~Temples Juif</French>
+		<English>Jewish Temple~a Jewish Temple~Jewish Temples</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_TEMPLE_CHRISTIANITY</zType>
-		<French>Temple Chrétien~un Temple Chrétien~Temples Chrétiens</French>
+		<English>Christian Temple~a Christian Temple~Christian Temples</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_TEMPLE_MANICHAEISM</zType>
-		<French>Temple Manichéen~un Temple Manichéen~Temples Manichéens</French>
+		<English>Manichaean Temple~a Manichaean Temple~Manichaean Temples</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_CATHEDRAL_ZOROASTRIANISM</zType>
-		<French>Cathédrale Zoroastrienne~une Cathédrale Zoroastrienne~Cathédrales Zoroastriennes</French>
+		<English>Zoroastrian Cathedral~a Zoroastrian Cathedral~Zoroastrian Cathedrals</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_CATHEDRAL_JUDAISM</zType>
-		<French>Cathédrale Juive~une Cathédrale Juive~Cathédrales Juives</French>
+		<English>Jewish Cathedral~a Jewish Cathedral~Jewish Cathedrals</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_CATHEDRAL_CHRISTIANITY</zType>
-		<French>Cathédrale Chrétienne~une Cathédrale Chrétienne~Cathédrales Chrétiennes</French>
+		<English>Christian Cathedral~a Christian Cathedral~Christian Cathedrals</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_CATHEDRAL_MANICHAEISM</zType>
-		<French>Cathédrale Manichéenne~une Cathédrale Manichéenne~Cathédrales Manichéennes</French>
+		<English>Manichaean Cathedral~a Manichaean Cathedral~Manichaean Cathedrals</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_HOLY_SITE_ZOROASTRIANISM</zType>
-		<French>L'Adur Burzen-Mihr</French>
+		<English>The Adur Burzen-Mihr</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_HOLY_SITE_JUDAISM</zType>
-		<French>Le Temple de Salomon</French>
+		<English>The Temple of Solomon</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_HOLY_SITE_CHRISTIANITY</zType>
-		<French>L'église du Saint-Sépulcre</French>
+		<English>The Church of the Holy Sepulchre</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_HOLY_SITE_MANICHAEISM</zType>
-		<French>Le Cao'an</French>
+		<English>The Cao'an</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_PYRAMIDS</zType>
-		<French>Les Pyramides</French>
+		<English>The Pyramids</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_GREAT_ZIGGURAT</zType>
-		<French>La Grande Ziggourat</French>
+		<English>The Great Ziggurat</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_ORACLE</zType>
-		<French>L'Oracle</French>
+		<English>The Oracle</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_HANGING_GARDENS</zType>
-		<French>Les Jardins Suspendus</French>
+		<English>The Hanging Gardens</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_NECROPOLIS</zType>
-		<French>La Nécropole</French>
+		<English>The Necropolis</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_ISHTAR_GATE</zType>
-		<French>La Porte d'Ishtar</French>
+		<English>The Ishtar Gate</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_LIGHTHOUSE</zType>
-		<French>Le Grand Phare</French>
+		<English>The Lighthouse</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_APADANA</zType>
-		<French>L'Apadana</French>
+		<English>The Apadana</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_MAUSOLEUM</zType>
-		<French>Le Mausolée</French>
+		<English>The Mausoleum</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_ACROPOLIS</zType>
-		<French>L'Acropole</French>
+		<English>The Acropolis</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_COLOSSUS</zType>
-		<French>Le Colosse</French>
+		<English>The Colossus</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_MUSAEUM</zType>
-		<French>Le Musaeum</French>
+		<English>The Musaeum</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_CIRCUS_MAXIMUS</zType>
-		<French>Le Circus Maximus</French>
+		<English>The Circus Maximus</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_PANTHEON</zType>
-		<French>Le Pantheon</French>
+		<English>The Pantheon</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_HAGIA_SOPHIA</zType>
-		<French>La Basilique Sainte-Sophie</French>
+		<English>The Hagia Sophia</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_GRAND_BAZAAR</zType>
-		<French>Le Grand Bazaar</French>
+		<English>The Grand Bazaar</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_LAURION_MINE</zType>
-		<French>Mine Laurion~une Mine Laurion~Mines Laurion</French>
+		<English>Laurion Mine~a Laurion Mine~Laurion Mines</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_FOREST_FIRE_TOMB</zType>
-		<French>Tombe Antique~une Tombe Antique~Tombes Antique</French>
+		<English>Ancient Tomb~an Ancient Tomb~Ancient Tombs</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_FOREST_FIRE_MONUMENT</zType>
-		<French>Monument National~un Monument National~Monuments Nationaux</French>
+		<English>National Monument~a National Monument~National Monuments</English>
 	</Entry>
 </Root>
