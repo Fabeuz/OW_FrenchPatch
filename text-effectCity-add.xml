@@ -87,10 +87,6 @@
 		<English>Patrons</English>
 	</Entry>
 	<Entry>
-		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_PATRONS_SEAT</zType>
-		<English>Patrons</English>
-	</Entry>
-	<Entry>
 		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_CLERICS</zType>
 		<English>Clerics</English>
 	</Entry>
@@ -327,6 +323,10 @@
 		<English>The Great Ziggurat</English>
 	</Entry>
 	<Entry>
+		<zType>TEXT_EFFECTCITY_IMPROVEMENT_GREAT_ZIGGURAT_ALL</zType>
+		<English>The Great Ziggurat</English>
+	</Entry>
+	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_ORACLE</zType>
 		<English>The Oracle</English>
 	</Entry>
@@ -499,6 +499,10 @@
 		<English>Professional Army</English>
 	</Entry>
 	<Entry>
+		<zType>TEXT_EFFECTCITY_LAW_VOLUNTEERS</zType>
+		<English>Volunteers</English>
+	</Entry>
+	<Entry>
 		<zType>TEXT_EFFECTCITY_LAW_TOLERANCE</zType>
 		<English>Tolerance</English>
 	</Entry>
@@ -531,10 +535,6 @@
 		<English>Isolationism</English>
 	</Entry>
 	<Entry>
-		<zType>TEXT_EFFECTCITY_LAW_TRADE_LEAGUE</zType>
-		<English>Trade League</English>
-	</Entry>
-	<Entry>
 		<zType>TEXT_EFFECTCITY_LAW_ASCETICISM</zType>
 		<English>Asceticism</English>
 	</Entry>
@@ -553,6 +553,10 @@
 	<Entry>
 		<zType>TEXT_EFFECTCITY_LAW_COIN_DEBASEMENT</zType>
 		<English>Coin Debasement</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_LAW_MONETARY_REFORM</zType>
+		<English>Monetary Reform</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_NATION_ASSYRIA</zType>
@@ -891,6 +895,10 @@
 		<English>Consular Tribunes</English>
 	</Entry>
 	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_CONFUCIANISM</zType>
+		<English>Confucianism</English>
+	</Entry>
+	<Entry>
 		<zType>TEXT_EFFECTCITY_RELIGION_JUDAISM</zType>
 		<English>Judaism</English>
 	</Entry>
@@ -1131,8 +1139,12 @@
 		<English>Elder Specialist</English>
 	</Entry>
 	<Entry>
-		<zType>TEXT_EFFECTCITY_TRAIT_ORATOR_ARCHETYPE_ALL</zType>
+		<zType>TEXT_EFFECTCITY_TRAIT_JUDGE_ARCHETYPE_ALL</zType>
 		<English>Orator Leader</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_ORATOR_ARCHETYPE_ALL</zType>
+		<English>Judge Leader</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_BUILDER_ARCHETYPE_ALL</zType>
@@ -1259,6 +1271,10 @@
 		<English>Herder</English>
 	</Entry>
 	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_DEALMAKER</zType>
+		<English>Dealmaker</English>
+	</Entry>
+	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_MISERABLE</zType>
 		<English>Miserable</English>
 	</Entry>
@@ -1271,12 +1287,16 @@
 		<English>Soldier</English>
 	</Entry>
 	<Entry>
-		<zType>TEXT_EFFECTCITY_UNIT_CARAVAN</zType>
-		<English>Caravan</English>
+		<zType>TEXT_EFFECTCITY_TRAIT_FAMOUNS</zType>
+		<English>Famous</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_ENEMY_OF_THE_STATE</zType>
 		<English>Enemy of the State</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_UNIT_CARAVAN</zType>
+		<English>Caravan</English>
 	</Entry>
 	<!--Source-->
 	<Entry>
