@@ -268,6 +268,10 @@
 		<English>{0_tribute} Tribute with {1_barbarian}</English>
 	</Entry>
 	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_ADOPT_RELIGION</zType>
+		<English>Adopts {0_religion} as State Religion</English>
+	</Entry>
+	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_STATE_RELIGION</zType>
 		<English>Adopts {0_religion} as State Religion</English>
 	</Entry>
@@ -348,6 +352,10 @@
 		<English>Desires {0}</English>
 	</Entry>
 	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_RANDOM_TRAIT</zType>
+		<English>{0_character} becomes {1_trait}</English>
+	</Entry>
+	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_GAINS</zType>
 		<English>Becomes {0}</English>
 	</Entry>
@@ -371,11 +379,15 @@
 		<zType>TEXT_GAME_DO_BONUS_NICKNAME</zType>
 		<English>Becomes known as {0_nickname}</English>
 	</Entry>
-	<Entry>
-		<zType>TEXT_GAME_DO_BONUS_PLAYER_START_LAW</zType>
-		<English>{0_player}: Start {1_law}</English>
-	</Entry>
-	<Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_PLAYER_START_LAW</zType>
+    <English>{0_player}: Start {1_law}</English>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_PLAYER_END_LAW</zType>
+    <English>{0_player}: End {1_law}</English>
+  </Entry>
+  <Entry>
 		<zType>TEXT_GAME_DO_BONUS_PLAYER_FREE_LAW</zType>
 		<English>{0_player}: Free {1_law}</English>
 	</Entry>
@@ -394,6 +406,10 @@
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_MAKE_GENERAL</zType>
 		<English>General of {0_unit}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_SEIZE_THRONE</zType>
+		<English>Leader of {0_player}</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_RELEASE_GENERAL_UNIT</zType>
@@ -418,10 +434,6 @@
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_ABDICATES</zType>
 		<English>Abdicates</English>
-	</Entry>
-	<Entry>
-		<zType>TEXT_GAME_DO_BONUS_SEIZES_THRONE</zType>
-		<English>Seizes Throne</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_CHOSEN_HEIR</zType>
@@ -480,7 +492,7 @@
 		<English>{0_vegetation} from {1_tile}</English>
 	</Entry>
 	<Entry>
-		<zType>TEXT_GAME_DO_BONUS_ADOPT_STATE_RELIGION</zType>
+		<zType>TEXT_GAME_DO_BONUS_PLAYER_ADOPT_RELIGION</zType>
 		<English>{0_player}: Adopt {1_religion} as State Religion</English>
 	</Entry>
 	<Entry>
@@ -501,7 +513,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_POPUP_BONUS_TECH</zType>
-		<English>You have a discovered a new technology: {0_tech}.</English>
+		<English>{0_player} discovers a new technology: {1_tech}.</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_LOG_DATA</zType>
