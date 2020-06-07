@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <!-- edited with XMLSpy v2020 (x64) (http://www.altova.com) by Andrew Auseon (Private) -->
 <Root>
 	<!--Assets/GameAssets/Resources/Infos/trait.xml-->
@@ -159,6 +158,10 @@
 		<English>Herder</English>
 	</Entry>
 	<Entry>
+		<zType>TEXT_TRAIT_DEALMAKER</zType>
+		<English>Dealmaker</English>
+	</Entry>
+	<Entry>
 		<zType>TEXT_TRAIT_TRACKER</zType>
 		<English>Tracker</English>
 	</Entry>
@@ -193,6 +196,10 @@
 	<Entry>
 		<zType>TEXT_TRAIT_BLOODTHIRSTY</zType>
 		<English>Bloodthirsty</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_HECKLER</zType>
+		<English>Heckler</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_STEADFAST</zType>
@@ -285,6 +292,10 @@
 	<Entry>
 		<zType>TEXT_TRAIT_HONEST</zType>
 		<English>Honest</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_DISHONEST</zType>
+		<English>Dishonest</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_PIOUS</zType>
@@ -399,6 +410,10 @@
 		<English>Fugitive</English>
 	</Entry>
 	<Entry>
+		<zType>TEXT_TRAIT_MISSING</zType>
+		<English>Missing</English>
+	</Entry>
+	<Entry>
 		<zType>TEXT_TRAIT_HIDING_ABROAD</zType>
 		<English>Hiding Abroad</English>
 	</Entry>
@@ -443,10 +458,6 @@
 		<English>Adopted</English>
 	</Entry>
 	<Entry>
-		<zType>TEXT_TRAIT_BYPASSED_HEIR</zType>
-		<English>Bypassed Heir</English>
-	</Entry>
-	<Entry>
 		<zType>TEXT_TRAIT_ABDICATED</zType>
 		<English>Abdicated</English>
 	</Entry>
@@ -477,10 +488,6 @@
 	<Entry>
 		<zType>TEXT_TRAIT_MOURNING</zType>
 		<English>Mourning</English>
-	</Entry>
-	<Entry>
-		<zType>TEXT_TRAIT_DEALMAKER</zType>
-		<English>Dealmaker</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ARCHON</zType>
